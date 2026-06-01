@@ -4,3 +4,10 @@ NightModePlus est un script AutoHotKey qui vous permettra de baisser encore plus
 Utilisation :
 - Appuyez sur Ctrl + B pour activer le voile
 - Appuyez sur Ctrl + H pour désactiver le voile
+
+# English
+NightModePlus is an AutoHotKey script that allows you to further reduce the perceived brightness of your PC screen—even when it’s already set to the minimum—to protect your eyes. It does this by placing a dark overlay in front of your applications.
+
+How to use:
+- Press Ctrl + B to enable the overlay
+- Press Ctrl + H to disable the overlay
